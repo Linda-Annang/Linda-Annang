@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Linda-Annang
 - 👀 I’m interested in data analysis codes and tools
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on business analysis and data analysis projects
+- 💞️ I’m looking to collaborate on product analysis and data analysis projects
 - 📫 How to reach me linda.annang@gmail.com
 
 <!---
