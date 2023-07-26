@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on product engineering/analysis and data analysis projects
 - 📫 How to reach me linda.annang@gmail.com
+- This is my gist link: https://gist.github.com/Linda-Annang
 
 <!---
 Linda-Annang/Linda-Annang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
