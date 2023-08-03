@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on product engineering/analysis and data analysis projects
 - 📫 How to reach me linda.annang@gmail.com
 - This is my gist link: https://gist.github.com/Linda-Annang
+- This is my kaggle profile link: https://www.kaggle.com/lindaannang
+- This is my codes on kaggle link: https://www.kaggle.com/lindaannang/code
 
 <!---
 Linda-Annang/Linda-Annang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
