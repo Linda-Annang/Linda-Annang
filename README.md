@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Linda-Annang
 - 👀 I’m interested data analysis, FinOps, & DevOps codes and tools
 - 🌱 My stacks are SQL, Python, R, Linux, tableau, Power BI, AWS, Terraform, kubernetes, docker, ansible, Jenkins, jira, git, VS code, bash 
-- 💞️ I’m looking to collaborate on product engineering/analysis and data analysis projects
+- 💞️ I’m looking to collaborate on DevOps engineering/ FinOps analysis and data analysis projects
 - 📫 How to reach me linda.annang@gmail.com
 - This is my gist link: https://gist.github.com/Linda-Annang
 - This is my kaggle profile link: https://www.kaggle.com/lindaannang
